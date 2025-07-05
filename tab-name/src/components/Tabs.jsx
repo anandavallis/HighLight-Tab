@@ -1,4 +1,4 @@
-// src/components/Tabs.jsx
+
 import React from 'react';
 import { NavLink, useParams } from 'react-router-dom';
 
